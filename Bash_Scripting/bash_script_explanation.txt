@@ -1,0 +1,8 @@
+A Bash script is a text file containing a series of commands that are executed by the Bash shell, 
+Essentially, it's a way to automate tasks that you would normally do manually at the command line.
+How a Bash Script is created;
+a. Open your Terminal cli in VS Code. 
+b. Type touch and the file name of choice with the name ending with ".sh"
+c. Type some executable content into the file
+d. In the Terminal cli type "chmod +x" and yhe file name
+e. Then type "./" and the file name to execute it
