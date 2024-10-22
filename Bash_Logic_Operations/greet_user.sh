@@ -1,9 +1,7 @@
 #!/bin/bash
 # This script is to take 2 positional arguments and display a greeting
 
-echo Please enter your First Name
-read firstname
-echo Please enter your Last Name
-read lastname
-echo "Hello, $firstname $lastname! 
-     Welcome to Bash Scripting. "
+First_name=$1
+Last_name=$2
+echo "Hello, $First_name $Last_name! 
+Welcome to Bash Scripting. "
