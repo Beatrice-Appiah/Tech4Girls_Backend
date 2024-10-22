@@ -11,5 +11,6 @@ number=$((number-1))
 
 if (( "$number" == 0 )); then
 break
+echo Coundown complete!
 fi
 done

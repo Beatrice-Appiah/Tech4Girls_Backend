@@ -4,7 +4,7 @@
 echo Enter your favourite number
 read number
 
-if (( $number == "even" ))
+if [ $(( number % 2 )) -eq 0 ]
 then 
 echo The number $number is even
 else

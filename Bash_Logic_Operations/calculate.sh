@@ -7,13 +7,14 @@ echo Enter any 2nd number
 read num_2
 echo Enter any 3rd number
 read num_3
-
 # Addition of numbers
 a=$num_1
 b=$num_2
 Sum=$((a+b))
-
+echo The sum of $a and $b is: $Sum
 # Mulitiplication
-c=$sum
+c=$Sum
 d=$num_3
-Product=$((c*d))
+Multiplication=$((c*d))
+echo Multiplying the $c by $d gives: $Multiplication
+

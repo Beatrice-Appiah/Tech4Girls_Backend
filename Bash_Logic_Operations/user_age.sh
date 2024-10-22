@@ -4,11 +4,11 @@
 echo Enter your age
 read age
 
-if [ "$age" -le 18 ] then
+if [ "$age" -lt 18 ] then
 echo You are a Minor 
-else
-if [ "$age" -ge 18 ]  &&  [ "$age" -le 64 ] then
+elif [ "$age" -ge 18 ]  &&  [ "$age" -lt 65 ];
+then
 echo You are an adult
 else
-if [ "$age" -eq 65 ]  ||  [ "$age" -gt 65 ] then
 echo You are a senior
+fi

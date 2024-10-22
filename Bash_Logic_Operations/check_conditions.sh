@@ -1,14 +1,13 @@
 #!/bin/bash
 # This script takes two numbers as arguments. Then use Logical Opertors to check them.
 
-echo Enter your favourite number
-read fav_number
-echo Enter the precedent number to $fav_number
-read number
+Number1=$1
+Number2=$2
 
-if ( "$fav_number" -gt 10 )  &&  ( "$number" -gt 10 )
-then echo Both numbers are greater than 10
-else 
-if
-
+if [ "$Number1" -gt 10 ]  &&  [ "$Number2" -gt 10 ]
+then echo "Both numbers are greater than 10"
+elif [ $Number1 -gt 10 ] || [ $Number2 -gt 10 ] 
+then 
+echo "At least number is greater then 10"
+else echo "Neither number is greater than 10"
 fi
