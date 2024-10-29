@@ -1,16 +1,19 @@
 a. {i} The Various Data Types in Python.
 
-(-) 'int' in Python refers to a data type of whole numbers. Examples; '2', '4', '5'.
+(-) 'int' in Python refers to a data type of whole numbers without decimal points. Examples; 2, 4, 5.
 
-(-) 'float' in Python refers to a data type of decimals. Examples; '4.5', '6.7', '3.9'.
+(-) 'float' in Python refers to a data type of numbers with decimals. Examples; 4.5, 6.7, 3.9.
 
-(-) 'str' in Python refers to a data type of words. Examples; 'school', 'banana', 'Teshie'.
+(-) 'str' in Python refers to a data type a sequence of words or characters. Examples; 'school', 'banana', 'Teshie'.
 
-(-) 'list' in Python refers to a data type of a collection of items. Examples; ('lion', 'elephant', 'giraffe', 'rabbit')
+(-) 'list' in Python refers to a data type of a collection of items. They can contain 
+differnt data types. Examples; ['lion', 'elephant', 'giraffe'], ['Spintex', 'Nungua', 'Buade'].
 
-(-) 'tuple' in Python refers to a data type 
+(-) 'tuple' in Python refers to a data type of ordered collection of items. Items can be of different data
+types. Examples; (2, 1, 4, 'apple', 9.8), ('gold', 400, 3.667).
 
 (-) 'set' in Python refers to a data type of a collection of unordered values and they have no duplicate.
+Examples; {2, 1, 'apple', 9.8}, {'gold', 400, 3.667}.
 
 
 a. {ii} Methods of using string;
