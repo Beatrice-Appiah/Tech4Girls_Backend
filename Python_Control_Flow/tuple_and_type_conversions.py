@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# This script demonstrates methods of indexing
+# This script demonstrates methods of indexing and conversion of data types
 
 
 tuple_1 = ('Afua', 'Adwoa', 'Ama', 'Jojo', 'Hawa')
