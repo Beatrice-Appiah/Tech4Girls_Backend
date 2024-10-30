@@ -10,7 +10,7 @@ print("First element:", first_element)
 
 # Index for the second element
 second_element = tuple_1[-1]
-print("Second element:", second_element)
+print("Second element", second_element)
 
 # The use of count on the tuple
 count = tuple_1.count('Adwoa')
