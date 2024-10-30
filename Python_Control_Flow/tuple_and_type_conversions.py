@@ -5,12 +5,12 @@
 tuple_1 = ('Afua', 'Adwoa', 'Ama', 'Jojo', 'Hawa')
 
 # Index for the first element
-index = tuple_1.index('Afua')
-print(index)
+first_element = tuple_1[0]
+print("First element:", first_element)
 
 # Index for the second element
-index = tuple_1.index('Hawa')
-print(index)
+second_element = tuple_1[-1]
+print("Second element:", second_element)
 
 # The use of count on the tuple
 count = tuple_1.count('Adwoa')
