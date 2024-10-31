@@ -1,0 +1,9 @@
+ To use Python3 interpreter to add to numbers:
+
+ a) Initally make sure Python3 is successfully installed onyour machine.
+ b) In your terminal command line, type " which Python3"
+ c) Then assign each number to a variable. Example; 
+                                                  x = 5
+                                                  y = 4
+d) Then assign a variable name to keep your result.
+e) The resultusing the variable name can now be printed out.
