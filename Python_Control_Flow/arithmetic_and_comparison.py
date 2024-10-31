@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# This script demonstrates some t
+# This script demonstrates some the use if some operators
 
 # {i, ii} Using Arithmetic Operators
 x = int('5')
@@ -33,7 +33,7 @@ Modulo = x % y
 print(f'{Modulo}') 
 
 
-#{iii} Using Comparison Opertors
+#{iii} Using Comparison Operators
 
 # For 'equal to'
 Equal = x == y

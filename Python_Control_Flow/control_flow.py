@@ -1,5 +1,5 @@
 #!/usr/local/bin/python3
-# This script demonstrates methods of indexing
+# This script demonstrates methods of Control flow 
 
 age = int(input("Enter your age...."))
 
