@@ -1,0 +1,7 @@
+In Linux, every file and directory has an Owner, Group and Others as users.
+The owner is the user who created the file or directory.
+File modes determine the permissions associated with a file or directory. This controls who can access a file or not.
+The 3 Basic permission are Read, Write and Execute.
+The Read permission allows users to view content of the file or directory.
+The Write permission allows users to modify contents of a file.
+The Execute permission allows users to ru a file if its executeable.

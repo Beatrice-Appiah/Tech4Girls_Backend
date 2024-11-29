@@ -1,0 +1,2 @@
+The root directory is the starting point of all the linux directory, whilst The Home directory is the folder where 
+where some of the user's files are kept.

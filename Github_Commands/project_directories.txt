@@ -1,0 +1,4 @@
+Move into the home directory and type mkdir and "Backend_Projects".
+Move into "Backend_Projects" by typing cd "Backend_Projects".
+Then type mkdir Project A. Then click enter.
+Then type mkdir Project B. Then click enter.

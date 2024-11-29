@@ -1,0 +1,7 @@
+a. Bin
+b. Boot
+c. Device files
+d. Home directory
+e. Libraries
+f. Mount 
+g. Configuration files

@@ -1,0 +1,2 @@
+Absolute paths are references that specify the exact location of a file or directory from the root directory of the file system, whilst,
+Direct paths are references that specify the location of a file or directory relative to a current working directory.

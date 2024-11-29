@@ -1,0 +1,5 @@
+Open your terminal
+Navigate through the directory where git is located 
+Type git branch and the new branch name
+Then type git push origin and the new branch name
+Now type git checkout and the branch name you want to enter

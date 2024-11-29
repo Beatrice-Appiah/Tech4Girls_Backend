@@ -1,0 +1,3 @@
+The purpose of the git pull coomand is to download files or changes made on the github or the remote repository to a user's local computer.
+This command is used when changes have been made to the remote repository on github and the user or users have to download the changes on their local computer
+before any further continuation.
