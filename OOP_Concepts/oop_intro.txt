@@ -1,0 +1,50 @@
+-- Brief explanation of Object Oriented Programming: 
+OOP is a programming criteria that treats problems such as a collection of objects,
+each with their own attributes and methods. Enhacing reusability and organiztion 
+of codes.
+These principles allow developers create modular and well-structured codes by
+defining tje relationship between objects and managing the access to their
+internal details.
+
+The four main Principles of OOP are:
+a. Encapsulation:
+The practice of bundling data (attributes) and methods together within a class, restricting direct access to data and
+only allowing modifications through defined methods, protecting the internal state of an object. 
+
+b. Abstraction:
+Focuses on the essential features of an object, hiding unnecessary implementation details and presenting a
+simplified interface to interact with it.
+
+c. Inheritance:
+Allows a new class (child class) to inherit properties and behaviors from an existing class (parent class), enabling code reuse and
+creating hierarchical relationships between classes.
+
+d. Polymorphism:
+The ability of an object to take on multiple forms, allowing the same method name to perform
+different actions depending on the object type.
+
+
+-- Why OOP is beneficial for Software Development?
+It is important because:
+i. Improves collaboration: OOP provides a standardized approach that allows developers
+to work independently on different components. 
+
+ii. Reduces code duplication: OOP allows developers to break down complex systems
+into smaller, more manageable objects. 
+
+iii. Saves development time: OOP allows developers to reuse code and combine
+existing libraries. 
+
+Makes code more readable and maintainable: OOP uses modularity and encapsulation
+to improve code organization. 
+
+
+-- Real_life examples;
+a. The technicalities of how are car accelerates and modulates are hidden
+in methods to make it easier to read.
+
+b. A human can be a class with different methods and attributes and also 
+take different forms.
+
+c. An animals can be a class with different methods and attributes and also
+have different types of animals(instances).
