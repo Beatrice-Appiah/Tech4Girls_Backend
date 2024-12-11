@@ -3,7 +3,10 @@
 
 -- Creates a database Tech4Girls_DB
 CREATE DATABASE IF NOT EXISTS Tech4Girls_DB;
+
+-- Shows databses
 SHOW DATABASES;
+
 -- Use the Tech4Girls_DB database
 USE Tech4Girls_DB;
 
@@ -16,7 +19,10 @@ CREATE TABLE IF NOT EXISTS Users (
 );
 
 -- Insert values into Users table
-INSERT INTO Users (username, email, created_at)
-VALUES ("ama", "ama@example.com", "2024-11-01 10:30:00"),
-       ("Abena", "abena@example.com","2024-11-02 12:00:00"),
-       ("adjoa", "adjoa@example.com", "2024-11-03 14:15:00");
+INSERT INTO Users (username, email)
+VALUES ("ama", "ama@example.com"),
+       ("Abena", "abena@example.com"),
+       ("adjoa", "adjoa@example.com");
+
+-- Selects all columns and rows from the table Users and displays it
+SELECT * FROM Users;
