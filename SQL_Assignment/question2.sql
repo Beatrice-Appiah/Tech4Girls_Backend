@@ -15,6 +15,9 @@ SHOW TABLES;
 
 -- Insert values into Posts Table (one post for each user)
 INSERT INTO Posts (user_id, title, content)
-/* VALUES ("Mrs", "She is good", "2024-11-01 10:30:00" ),
-       ("Miss", "She is kind", "2024-11-02 12:00:00"),
-       ("Madam", "She is hardworking","2024-11-03 14:15:00"); */
+VALUES (1,"Determination", "It does not matter how slowly you go as long as you do not stop."),
+       (2, "Honesty", "Honesty is the first chapter of the book of wisdom."),
+       (3, "Patience", "Patience is bitter, but its fruit is sweet."); 
+
+-- Selects all columns and rows from the table Posts and displays it
+SELECT * FROM Posts;
