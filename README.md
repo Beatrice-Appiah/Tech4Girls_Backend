@@ -1,7 +1,7 @@
 # Tech4Girls_Backend ASSIGNMENTS
 This directory contains answers to tasks regarding my studies on backend development with Tech4Girls, HACSA Foundation.
 
-## AUTHORS
+## AUTHOR
 * [BEATRICE NAA-MERYEA APPIAH](https://www.linkedin.com/in/beatrice-naa-meryea-appiah-468a5431b?trk=contact-inf)
 
 ## PROJECT OVERVIEW:
