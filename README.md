@@ -7,6 +7,12 @@ This directory contains answers to tasks regarding my studies on backend develop
 ## PROJECT OVERVIEW:
 This repository contains assignments done from lessons of Tech4Girls, HACSA.
 
+## HOW TO USE THIS DIRECTORY
+``bash
+  #Clone the repository to your local machine.
+  git clone https://github.com/Beatrice-Appiah/Tech4Girls_Backend.git
+``
+
 ## TECH STACK:
 * Bash Scripting
 * Object Oriented Programming
